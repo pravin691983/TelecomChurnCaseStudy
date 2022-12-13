@@ -75,19 +75,19 @@ After cleaning the data, we broadly employed three models as mentioned below inc
 
 **Logistic Regression**
 
-- Train Accuracy : ~90% . Test Accuracy : ~88%
+- Train Accuracy : ~80% . Test Accuracy : ~85%
 
 **Logistic regression with PCA**
 
-- Train Accuracy : ~92% . Test Accuracy : ~92%
+- Train Accuracy : ~91% . Test Accuracy : ~90%
 
 **Decision Tree with PCA:**
 
-- Train Accuracy : ~94% . Test Accuracy : ~93%
+- Train Accuracy : ~92% . Test Accuracy : ~90%
 
 **Random Forest with PCA:**
 
-- Train Accuracy :~ 92% . Test Accuracy :~ 92%
+- Train Accuracy :~ 92% . Test Accuracy :~ 91%
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
