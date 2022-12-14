@@ -1,4 +1,4 @@
-# Telecom Churn Case Study
+# Telecom Churn Case Study Hackathon
 
 > To build a model to predict churning customers for a Telecom company based on temporal behaviour
 
